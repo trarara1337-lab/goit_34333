@@ -7,7 +7,7 @@ import duckdb
 import pyarrow
 import spark
 import boto3
-## Кава з вафлями
+## Вафлі з кавою
 
 
 #%%
